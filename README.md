@@ -1,4 +1,4 @@
-# Seminar_Python (ゴメス研究室）
+# Seminar_SABO_Python (ゴメス研究室）
 砂防学の授業為
 
 PROGRAMMING FOR SABO LECTURE 1
