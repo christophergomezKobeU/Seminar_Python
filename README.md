@@ -14,3 +14,7 @@ PROGRAMMING FOR SABO LECTURE ２
 PROGRAMMING FOR SABO LECTURE 3
 
 この偏微分方程式計算科学の3回目の授業では、ラプラス方程式とポアソン方程式について学びます。これらの2つの方程式は、重力場や「クレーター」のような表面、拡散的な地形をモデル化するために重要です。コードの解法は、解が収束するまで数回反復することで行われます。前より、コードがちょっとだけ難しいかも。最後に、流体力学や電磁気学など、さまざまな応用が見つかるでしょう。今週のファイルはElliptic equations.ipynb
+
+PROGRAMMING FOR SABO LECTURE 4
+
+PANDAS datasets
